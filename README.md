@@ -1,18 +1,15 @@
-# symfony-template
-Implements xxx in symfony
+# symfony-monolog-bundle
+Implements MonologBundle in symfony
 
-| Branch     | xxx Version | Symfony Version | PHP Version     |
-|------------|-------------|-----------------|-----------------|
-| [4.4.x][1] | `x.x`       | `4.4.x`         | `7.4` or higher |
+| Branch   | MonologBundle Version | Symfony Version | PHP Version     |
+|----------|-----------------------|-----------------|-----------------|
+| [3.x][1] | `3.x`                 | `4.4.x`         | `7.4` or higher |
 
 
-Read [xxx Docs](xxx)
-
-### Resources  
-- [xxx](xxx)
+Read [MonologBundle Docs](https://symfony.com/doc/current/logging.html)
 
 
 ### License
-The code is licensed under the [MIT License](https://github.com/habibun/symfony-template/blob/master/LICENSE)
+The code is licensed under the [MIT License](https://github.com/habibun/symfony-monolog-bundle/blob/master/LICENSE)
 
-[1]: https://github.com/habibun/symfony-template/tree/5.4.x
+[1]: https://github.com/habibun/symfony-monolog-bundle/tree/3.x
